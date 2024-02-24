@@ -1,37 +1,38 @@
-# 基于SpringBoot+Vue的医疗服务管理系统+原生微信小程序
+**郑重声明: 项目经过本地测试，确保可以运行， 可以用于学习和毕业设计参考~**
 
-#### 介绍
-小程序端：病情咨询、预约挂号、科普知识 - 后端：用户管理、科普管理、挂号管理、医生管理 - 角色：普通用户、医生、管理员
+[点我获取源码](https://x-x.fun/e/FX1c0034d44Z7)💕🤞
 
-#### 软件架构
-软件架构说明
+[点我查看更多](http://blog.cyrobot.top/blog)💕🤞
 
+#### 1.项目简介
+- 技术选型：SpringBoot + Vue + 原生微信小程序
 
-#### 安装教程
+**系统功能：**
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- 小程序端：病情咨询、预约挂号、科普知识
+- 后端：用户管理、科普管理、挂号管理、医生管理
+- 角色：普通用户、医生、管理员
 
-#### 使用说明
+**项目适用专科、地方本科院校、成人教育、成人自考计算机类毕业设计，内附格式较为规范的论文示例**
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 2.本地部署
+##### 2.1 后端启动
+- 创建MySQL数据库，导入项目中的sql文件
+- 通过IDEA导入项目
+- 修改admin-api项目下的配置文件，根据本地环境，修改数据库连接
+- 启动admin-api项目
 
-#### 参与贡献
+##### 2.2 管理web
+- 进入admin-web目录，也可以通过IDEA或者webStorm打开admin-web项目（idea需要安装vue插件）
+- npm install
+- npm run dev
+- 根据提示打开链接，账号/密码： admin/admin
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+##### 2.3 微信小程序
+- 打开微信开发工具，微信扫码登录
+- 导入mini-wechat-app
+- 选择测试号即可
+- 登录账号可以查看user表。普通用户 ： user/user  医生： huatuo/huatuo
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 3.项目部分截图
+![输入图片说明](92.png)![输入图片说明](93.png)![输入图片说明](94.png)![输入图片说明](91.png)
