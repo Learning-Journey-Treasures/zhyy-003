@@ -1,8 +1,10 @@
 **郑重声明: 项目经过本地测试，确保可以运行， 可以用于学习和毕业设计参考~**
 
-[点我获取源码](https://x-x.fun/e/FX1c0034d44Z7)💕🤞
+**[只要源码，点我获取](https://x-x.fun/e/GCdb3358d2qlv)💕🤞**
 
-[点我查看更多](http://blog.cyrobot.top/blog)💕🤞
+**[点我查看详情，获取源码+论文参考示例](https://x-x.fun/e/FX1c0034d44Z7)💕🤞
+
+ **[点我查看更多](http://blog.cyrobot.top/blog)💕🤞** 
 
 #### 1.项目简介
 - 技术选型：SpringBoot + Vue + 原生微信小程序
